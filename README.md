@@ -3,7 +3,7 @@
 - **Languages -** TypeScript, JavaScript, (some) Haskell
 - **Libraries -** React, React Native, Apollo GraphQL, Styled Components, Testing library, Cypress, many, many others
 - **Architecture -** AWS, GCP, particularly serverless stuff
-- **Equipment -** OSX/Linux, VSCode, Ergonomic otholinear keyboard (crkbd with Colemak-DH layout) to save my wrists, ReMarkable 2
+- **Equipment -** OSX/Linux, VSCode, Ergonomic otholinear keyboard (gergoplex), ReMarkable 2
 
 ---
 
