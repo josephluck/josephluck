@@ -1,6 +1,6 @@
 :wave: Hi there. I'm a software engineer passionate about design, user-experience and functional programming. Expert at React, React Native and TypeScript.
 
-- **Languages -** TypeScript, JavaScript, (some) Haskell
+- **Languages -** TypeScript, JavaScript, played around with a bunch of others
 - **Libraries -** React, React Native, Apollo GraphQL, Styled Components, Testing library, Cypress, many, many others
 - **Architecture -** AWS, GCP, particularly serverless stuff
 - **Equipment -** OSX/Linux, VSCode, Split otholinear keyboard (ferris), ReMarkable 2
