@@ -7,6 +7,6 @@
 
 ---
 
-I'm a technical lead at Mettle, a start-up bank which is part Natwest. Day to day, I build customer-facing products on Mobile and Web, and help other engineers do the same. (I also like to build little side projects. You can find some of them here 👇)
+I'm a technical lead at Mettle, a start-up bank within NatWest. Day to day, I build customer-facing products on Mobile and Web, and help other engineers do the same. (I also like to build little side projects. You can find some of them here 👇)
 
 I live in London with my girlfriend Chloe and Toy Poodle, Chester 🐩.
